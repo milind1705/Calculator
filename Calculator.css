@@ -1,0 +1,41 @@
+.container{
+    text-align: center;
+    margin-top: 20px;
+    border: solid rgb(146, 250, 10);
+    background-color: rgb(199, 212, 235);
+    border-width: 2px;
+    width: 215px;
+    margin-left: 300px;
+    margin-top: 5px;
+    border-radius: 10px;
+    border-width: 5px;
+
+}
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration-color: aqua;
+    color: rgb(241, 35, 8);
+}
+input{
+color: rgb(188, 230, 39);
+font-size: 35px;
+background-color: rgb(212, 191, 191);
+border: sienna solid 2px;
+border-radius: 10px;
+width: 200px;
+}
+table{
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+button{
+    font-size: 25px;
+    background-color: rgb(66, 6, 41);
+    width: 45px;
+    height: 45px;
+    border-radius: 9px;
+    color: bisque;
+
+}
